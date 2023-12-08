@@ -16,4 +16,5 @@ Run these commands:
 or Run by docker compose
 
 test
-
+----------------------
+Github Webhooks is added for jenkins GITScm Polling. It triggered github push event.
